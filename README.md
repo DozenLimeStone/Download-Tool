@@ -4,6 +4,5 @@ One issue is that it only supports links to files, anything else breaks the prog
 That comes later.
 
 Usage of program: you would pass one argument ( link to file ) and it would be downloaded.
-The program is I hope staticly linked, if it is not, please comment in issues!
 
 Happy reading my code!
